@@ -1,0 +1,25 @@
+{
+  "name": "hyperterm-chester-dark",
+  "version": "0.0.1",
+  "description": "Chester dark theme for HyperTerm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evgenTraytyak/hyperterm-chester-dark.git"
+  },
+  "keywords": [
+    "hyperterm",
+    "chester",
+    "dark",
+    "theme"
+  ],
+  "author": "Eugene Traytyak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evgenTraytyak/hyperterm-chester-dark/issues"
+  },
+  "homepage": "https://github.com/evgenTraytyak/hyperterm-chester-dark#readme"
+}
