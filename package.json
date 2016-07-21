@@ -1,6 +1,6 @@
 {
   "name": "hyperterm-chester-dark",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Chester dark theme for HyperTerm",
   "main": "index.js",
   "scripts": {

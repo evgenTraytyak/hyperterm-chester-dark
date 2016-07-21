@@ -1,4 +1,5 @@
 const backgroundColor = '#2C3643';
+const darkerBackground = '#262F3A';
 const foregroundColor = '#C0C5CE';
 
 const RED = '#FA5E5B';
@@ -12,7 +13,7 @@ const MEDIUM_GRAY = '#808080';
 const WHITE = '#FFFFFF';
 
 const cursorColor = YELLOW;
-const borderColor = MEDIUM_GRAY;
+const borderColor = darkerBackground;
 
 const colors = [
   backgroundColor,
